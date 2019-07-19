@@ -1,4 +1,6 @@
-## EE319K - Introduction to Embedded Systems - Lab 10
+## EE319K - Introduction to Embedded Systems - Final Lab 10
+
+Embedded Systems final project where my partner and I built a hand held 8 ball pool video game! 
 
 Find the lab description at link below :
 
